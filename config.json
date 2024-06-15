@@ -1,0 +1,16 @@
+{
+    "KeyForLog_1": "sudo:",
+    "KeyForLog_2": "pam_unix(sudo-i:session):",
+    "KeyForLog_3": "opened",
+    "KeyForLog_4": "closed",
+    "KeyForLog_5": "COMMAND",
+    "KeyForLog_6": "gdm-password]: pam_unix(gdm-password:session):",
+    "KeyForLog_7": "systemd-logind[",
+    "KeyForLog_8": "New session",
+    "TypeLog_1": "Connection in SuperUser",
+    "TypeLog_2": "Disconnection from the SuperUser",
+    "TypeLog_3": "Log in to the system",
+    "TypeLog_4": "Opened new session",
+    "TypeLog_5": "Close session",
+    "TypeLog_6": "User's session"
+}
